@@ -24,4 +24,9 @@ public class SecondMainTest {
     public void test1(){
         Assert.assertEquals("test failed", "hello", secondMain.hello());
     }
+
+    @Test
+    public void test2(){
+        Assert.assertEquals("test failed", "hello", secondMain.hello());
+    }
 }
