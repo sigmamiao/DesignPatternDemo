@@ -13,5 +13,6 @@ public class InitMain {
         System.out.println("Hello Git");
         System.out.println("This is dev branch and feature branch");
         System.out.println("a new dev branch");
+        System.out.println("dev code");
     }
 }
