@@ -2,3 +2,8 @@ language: java
 
 jdk:
   - oraclejdk8
+
+script:
+  ## Run Integration tests
+  - "echo test"
+  - mvn test -Dmaven.javadoc.skip=true
