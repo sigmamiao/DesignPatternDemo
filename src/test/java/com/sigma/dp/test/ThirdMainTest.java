@@ -12,5 +12,6 @@ public class ThirdMainTest {
         System.out.println("hehe");
         System.out.println("丢失的修改");
         System.out.println("在feature/feature_sigmamiao_2分支添加的代码");
+        System.out.println("在feature/feature_sigmamiao_2分支添加的代码2");
     }
 }
