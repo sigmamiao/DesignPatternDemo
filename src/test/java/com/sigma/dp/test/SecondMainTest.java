@@ -25,48 +25,4 @@ public class SecondMainTest {
         Assert.assertEquals("test failed", "hello", secondMain.hello());
     }
 
-    @Test
-    public void test2(){
-        Assert.assertEquals("test failed", "hello", secondMain.hello());
-    }
-
-    @Test
-    public void test3(){
-        Assert.assertEquals("test failed", "hello", secondMain.hello());
-    }
-
-    @Test
-    public void test4(){
-        Assert.assertEquals("test failed", "hello", secondMain.hello());
-    }
-
-    @Test
-    public void test5(){
-        Assert.assertEquals("test failed", "hello", secondMain.hello());
-    }
-
-    @Test
-    public void test6(){
-        Assert.assertEquals("test failed", "hello", secondMain.hello());
-    }
-
-    @Test
-    public void test7(){
-        Assert.assertEquals("test failed", "hello", secondMain.hello());
-    }
-
-    @Test
-    public void test8(){
-        Assert.assertEquals("test failed", "hello", secondMain.hello());
-    }
-
-    @Test
-    public void test9(){
-        Assert.assertEquals("test failed", "hello", secondMain.hello());
-    }
-
-    @Test
-    public void test10(){
-        Assert.assertEquals("test failed", "hello", secondMain.hello());
-    }
 }
